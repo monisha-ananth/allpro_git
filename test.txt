@@ -2,3 +2,4 @@
 Create test()
  a = 10
  b = 21
+ c = 25
